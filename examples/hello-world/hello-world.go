@@ -1,5 +1,5 @@
-// Our first program will print the classic "hello world"
-// message. Here's the full source code.
+// Programu yetu ya kwanza itaandika programu maarufu ya "hello world"
+// ujumbe. Hapa ni maelezo kuhusu msimbo wote
 package main
 
 import "fmt"
