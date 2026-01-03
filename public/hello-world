@@ -26,12 +26,12 @@
         
         <tr>
           <td class="docs">
-            <p>Our first program will print the classic &ldquo;hello world&rdquo;
-message. Here&rsquo;s the full source code.</p>
+            <p>Programu yetu ya kwanza itaandika programu maarufu ya &ldquo;hello world&rdquo;
+ujumbe. Hapa ni maelezo kuhusu msimbo wote</p>
 
           </td>
           <td class="code leading">
-            <a href="https://go.dev/play/p/NeviD0awXjt"><img title="Run code" src="play.png" class="run" /></a><img title="Copy code" src="clipboard.png" class="copy" />
+            <a href="https://go.dev/play/p/x51Z4cL9dEn"><img title="Run code" src="play.png" class="run" /></a><img title="Copy code" src="clipboard.png" class="copy" />
           <pre class="chroma"><code><span class="line"><span class="cl"><span class="kn">package</span> <span class="nx">main</span></span></span></code></pre>
           </td>
         </tr>
@@ -65,7 +65,9 @@ message. Here&rsquo;s the full source code.</p>
         <tr>
           <td class="docs">
             <p>To run the program, put the code in <code>hello-world.go</code> and
-use <code>go run</code>.</p>
+use <code>go run</code>.
+Ku run program, weka msinbo katika <code>hello-world.go</code> na
+tumia <code>go run</code>.</p>
 
           </td>
           <td class="code leading">
@@ -122,7 +124,7 @@ learn more about the language.</p>
       
 
     <p class="footer">
-      by <a href="https://markmcgranaghan.com">Mark McGranaghan</a> and <a href="https://eli.thegreenplace.net">Eli Bendersky</a> | <a href="https://github.com/mmcgrana/gobyexample">source</a> | <a href="https://github.com/mmcgrana/gobyexample#license">license</a>
+      by <a href="https://njox.dev/">Njox</a>  | <a href="https://github.com/Njoxpy/Njoxpy-gobyexample-Njoxpy-gobyexample-sw">source</a> | <a href="https://github.com/mmcgrana/gobyexample#license">license</a>
     </p>
 
     </div>

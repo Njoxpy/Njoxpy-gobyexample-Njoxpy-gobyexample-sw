@@ -1,5 +1,7 @@
 # To run the program, put the code in `hello-world.go` and
 # use `go run`.
+# Ku run program, weka msinbo katika `hello-world.go` na
+# tumia `go run`.
 $ go run hello-world.go
 hello world
 
